@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>ubuntu Tomcat server. admin is minjong. </h2>
+    <h2>ubuntu docker Tomcat server. admin is minjong. </h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi there update-test</h1>
